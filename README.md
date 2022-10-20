@@ -81,7 +81,3 @@ Codes for supervised baseline can be found inside /Code/Baselines/ folder.
 (1) For BiLSTM_glove baseline, please run Code/Baselines/baseline_glove_lstm_FB_political.ipynb
 
 (2) For BERT fine-tuned baseline, please run Code/Baselines/baseline_bert.py
-
-### For Analysis:
-
-Run Code/analysis_fb_Ad.ipynb

@@ -81,3 +81,17 @@ Codes for supervised baseline can be found inside /Code/Baselines/ folder.
 (1) For BiLSTM_glove baseline, please run Code/Baselines/baseline_glove_lstm_FB_political.ipynb
 
 (2) For BERT fine-tuned baseline, please run Code/Baselines/baseline_bert.py
+
+## Citation:
+
+If you find the paper useful in your work, please cite:
+
+```
+@article{islam2022electionfbAd,
+  title={Weakly Supervised Learning for Analyzing Political Campaigns on Facebook},
+  author={Islam, Tunazzina and Roy, Shamik and Goldwasser, Dan},
+  journal={arXiv preprint arXiv:2210.10669},
+  year={2022}
+}
+
+```

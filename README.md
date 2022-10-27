@@ -4,7 +4,7 @@ This repository contains code for paper titled "Weakly Supervised Learning for A
 
 ## Data:
 
-1. Please download the 'data' folder from following link [[Data]](https://drive.google.com/drive/u/1/folders/1_t0SiOVmHq4hCPSaAcj51HVcTQPO10Et)
+1. Please download the 'data' folder from following link [[Data]](https://purdue0-my.sharepoint.com/:f:/g/personal/islam32_purdue_edu/EucIYozPEmROobhqkqBjfMQBcq4jtSovyT0egHwfB2eOVA?e=4Cp7Bb)
 2. Links of 30 news article for each of 13 issues are inside 30_news_articles_urls.zip folder.
 3. The dataset is parsed in an usable format for the codes in data.pickle. This file is needed to run the model. This file can be found inside Data folder.
 

@@ -1,6 +1,6 @@
 # weaklysup-FB-ad-political
 
-This repository contains code for paper titled "Weakly Supervised Learning for Analyzing Political Campaigns on Facebook", [ICWSM 2023](https://www.icwsm.org/2023/index.html/).
+This repository contains code for paper titled [ [Weakly Supervised Learning for Analyzing Political Campaigns on Facebook](https://arxiv.org/pdf/2210.10669.pdf) ], [ICWSM 2023](https://www.icwsm.org/2023/index.html/).
 
 ## Data:
 

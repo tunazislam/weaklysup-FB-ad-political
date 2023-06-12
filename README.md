@@ -87,11 +87,13 @@ Codes for supervised baseline can be found inside /Code/Baselines/ folder.
 If you find the paper useful in your work, please cite:
 
 ```
-@article{islam2022electionfbAd,
+@inproceedings{islam2023weakly,
   title={Weakly Supervised Learning for Analyzing Political Campaigns on Facebook},
   author={Islam, Tunazzina and Roy, Shamik and Goldwasser, Dan},
-  journal={arXiv preprint arXiv:2210.10669},
-  year={2022}
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={17},
+  pages={411--422},
+  year={2023}
 }
 
 ```
